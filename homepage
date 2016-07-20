@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <style>
+      body
+{ background:url(images/bg-body.gif) repeat-x #585858;
+ color:#F2F2F2;
+ text-align:center;
+ }
+
+{ font-family: sans-serif;
+      }
+      .main-title {
+      font-family: cursive;
+      }
+      .sub-title{
+      font-family: cursive;
+      }
+      .main-title {
+      font-size: 60px;
+      }
+      .sub-title{
+      font-size: 40px;
+      }
+
+
+    </style>
+
+  </head>
+  <body>
+
+
+<select name="mydropdown">
+<option value="About Us">Our Story</option>
+<option value="Travels">Places We've Been</option>
+<option value="Restaurants">Food We've Eaten</option>
+<option value="Concerts/Movies"> Things We've Seen and Heard</option>
+<option value="Gifts"> Gifts to Each Other</option>
+</select>
+</div>
+</form>
+</body>
+</html>
+
+
+
+
+
+
+
+
+  <h1 class="main-title">Dilanchian-Malo Adventures</h1>
+
+  <p> Throughout the course of our relationship, we have explored hundreds of
+  restaurants, seen hundreds of movies and driven hundreds and hundred of miles!
+  <br>
+
+<br> It was about time we put to use my love of words and photos with Alec's
+love of coding and technology. This whole idea started when I taught myself to
+code and make a website for our three year anniversary. From there it's bloomed
+into our own, <em>personal</em> diary- a place to document our experiences and
+love. <br>
+
+<br> June 19th, 2013- Forever
+
+</p>
+
+
+
+
+
+
+</html>
