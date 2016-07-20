@@ -1,2 +1,2 @@
-Dilanchian Malo Website
-Alec Is Better
+#Dilanchian Malo Website
+Created by Daniela Malo
